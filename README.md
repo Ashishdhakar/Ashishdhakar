@@ -28,4 +28,4 @@ Git & GitHub
 VS Code
 Jupyter Notebook
 
-📫 Connect With Me 💼 LinkedIn: www.linkedin.com/in/bhavesh-paliwal-40799330a 📧 Email: bhavesh.paliwal0707@gmail.com
+📫 Connect With Me 💼 LinkedIn:https://www.linkedin.com/in/ashish-dhakar-219938309 📧 Email:Ashishdhakar26@gmail.com
