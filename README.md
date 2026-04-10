@@ -1,5 +1,4 @@
 👋 Hi, I'm Ashish
-
 🎓 3rd Year Computer Science Engineering Student
 📊 Aspiring Data Scientist | Python Enthusiast
 
@@ -8,6 +7,7 @@
 📚 Learning and working with Python, Data Analysis, and Visualization
 💡 Interested in solving real-world problems using data
 🧠 Practicing DSA regularly for placements
+
 🛠️ Skills
 👨‍💻 Programming
 Python
@@ -22,6 +22,7 @@ Data Cleaning & Preprocessing
 HTML
 CSS
 JavaScript
+
 ⚙️ Tools & Technologies
 Git & GitHub
 VS Code
