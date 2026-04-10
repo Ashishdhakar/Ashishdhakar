@@ -27,3 +27,5 @@ JavaScript
 Git & GitHub
 VS Code
 Jupyter Notebook
+
+📫 Connect With Me 💼 LinkedIn: www.linkedin.com/in/bhavesh-paliwal-40799330a 📧 Email: bhavesh.paliwal0707@gmail.com
