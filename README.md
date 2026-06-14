@@ -11,7 +11,7 @@
 🛠️ Skills
 👨‍💻 Programming
 Python
-C++
+Java
 JavaScript (Basics)
 📊 Data Science
 Pandas
